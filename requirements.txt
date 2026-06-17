@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+pydantic-settings
+python-dotenv
+pytest
+httpx
+sqlalchemy
+alembic
+beautifulsoup4
+httpx2
+APScheduler>=3.11,<4
+openai>=2.41.1
+keyring
